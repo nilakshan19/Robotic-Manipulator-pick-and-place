@@ -1,1 +1,1 @@
-# Robotic-Manipulator-pick-and-place
+# Robotic-Arm _Manipulator-pick-and-place
